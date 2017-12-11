@@ -7,20 +7,17 @@ start: 2017-12-01
 owner: Ministère des Affaires sociales
 ---
 
-Seul un public d'expert·e·s maitrîse la complexité du code du travail et de ses différentes sources de droit (accords de branches, conventions collectives et accords d'entreprises...). En plus de la diversité des sources de droit, la technicité de la matière la rend peu accessible pour les concerné·e·s : les employeur·e·s et les salarié·e·s.
+Seul un public d'expert·e·s maitrîse la complexité du code du travail et de ses différentes sources de droit (conventions collectives, accords de branches et accords d'entreprises...). En plus de la diversité des sources de droit, la technicité de la matière la rend peu accessible pour les concerné·e·s : les employeur·e·s et les salarié·e·s.
 
-Or tous les actifs sont impactés tous les jours par le droit qui régit leurs interactions au travail, qui, mal compris, mal appliqué, peut avoir des conséquences importantes pour l'employé comme pour l'employeur. 
+Or tous les actifs sont impactés tous les jours par le droit qui régit leurs relations au travail, qui, mal compris, mal appliqué, peut avoir des conséquences importantes pour le salarié·e comme pour l'employeur·e. 
 
-Les services de proximité des DIRECCTE répondent à plus de 1 665 000 demandes par an concernant le droit du travail, des questions les plus triviales aux cas les plus complexes. 
+Les services de renseignement en droit du travail (dans les DIRECCTE*) répondent à plus de 900 000 demandes par an concernant le droit du travail, des questions les plus simples aux cas les plus complexes. 
 
 L'objectif du code du travail numérique est d'améliorer la lisibilité du droit pour ceux qu'il concerne. 
 
-Construit avec les utilisateurs (employeurs et salariés) et les experts du terrain (inspecteur du travail notamment), le service répondra dans un premier temps aux questions que se posent les employeurs quant à leurs obligations vis à vis du droit du travail. Et plus précisément aux questions des TPE/PME, où les employeurs et les salariés sont le moins entourés pour comprendre leurs droits et leurs devoirs, sans conseillers RH ou délégués du personnel.
+Construit avec les utilisateurs (employeurs et salariés) et les experts du terrain (inspecteur du travail services d’inspection du travail et de renseignements en droit du travail notamment), le service répondra aux questions que se posent les employeur·e·s, notamment de TPE PME, quant aux  règles applicables à leur situation, ainsi qu'à celles que se posent les salarié·e·s 
 
-En fournissant à l'employeur (notamment dans les TPE/PME qui n'ont pas les moyens de s'entourer de fonction RH) une information personnalisée sur ses obligations vis à vis de ses salariés, de nombreuses infractions pourront être évitées, et les salariés mieux protégés.
+Pour rendre le droit accessible et compréhensible, nous devons construire un modèle exécutable qui en fonction de la situation d'une entreprise ou d'un salarié sera capable de servir les droits et les obligations associées aux différentes thématiques comme la durée du travail, la rémunération, le contrat de travail (l’embauche, son exécution, sa rupture) ou  la maladie par exemple. L'enjeu est donc d'identifier la source de droit applicable à des situations spécifiques et de donner une réponse claire sur les dispositions propres à la situation de l'utilisateur. 
 
-Le service s'adressera dans un second temps aux salariés et à l'inspection du travail elle-même qui pourra y trouver des réponses fiables et orienter les publics qu'elles rencontrent vers une information de premier niveau personnalisée. 
 
-Pour rendre le droit accessible, nous devons construire un modèle exécutable qui en fonction de la situation d'une entreprise ou d'un salarié sera capable de servir les droits et les devoirs associées aux différentes thématiques comme la durée du travail, le contrat de travail, la maladie ou l'embauche. L'enjeu est donc d'identifier la source de droit applicable à des situations spécifiques et de donner une réponse claire sur les dispositions propres à la situation de l'utilisateur. 
-
-Dans un premier temps, afin de "modéliser" un code du travail numérique, le périmètre du droit couvert sera le code du travail et de deux conventions collectives. Il s'élargira au fur et à mesure aux autres conventions collectives, aux accords de branches et aux accords d'entreprise.
+* DIRECCTE - Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.

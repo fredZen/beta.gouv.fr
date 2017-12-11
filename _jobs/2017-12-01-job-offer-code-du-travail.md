@@ -8,7 +8,7 @@ Et si on rendait le droit du travail executable ?!
 
 <!--more-->
 
-On recherche un développeur pour créer le [code du travail numérique](beta.gouv.fr/startups/codedutravail.html). L'objectif de cette Start-up d'Etat est d'améliorer l'accès au droit du travail, de le rendre compréhensible pour les personnes qu'il concerne; les employeurs et les salariés.
+On recherche un·e  développeur·e pour créer le [code du travail numérique](beta.gouv.fr/startups/codedutravail.html). L'objectif de cette Start-up d'Etat est d'améliorer l'accès au droit du travail, de le rendre compréhensible pour les personnes qu'il concerne; les employeurs et les salariés.
 
 Il s'agit dans un premier temps de comprendre les questions les principales questions que se posent employés et employeurs quant à leur droit et devoirs dans le cadre d'un contrat de travail.
 Pour cela il faut savoir quelle est la source de droit applicable, quelles dispositions s'appliquent au cas particulier de notre utilisateur et lui donner une réponse claire ; soit rendre le droit executable !
@@ -18,7 +18,7 @@ Au vu de la technicité du sujet et du challenge à relever, nous sommes à la r
 ## Rôle 
 
 Membre d'une petite équipe autonome, vous serez embarqué dans les phases de recherche utilisateurs et chargé de construire (from scratch) le service pour les usagers.
-Vous serez libre du choix de la stack technique parmi les solutions libres du marché.
+Vous serez libre du choix de la stack technique parmi les solutions libres du marché, en concertation avec le Tech Lead de l'Incubateur des Affaires sociales.
 
 Vous serez en charge des développements de l’administration système au css, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests et de monitoring. 
 
